@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MICHEAL\\source\\repos\\SchoolManagementSystem\\SchoolManageMentSystem.Data\\SchoolManageMentSystem.Data.csproj",
-      "projectName": "SchoolManageMentSystem.Data",
-      "projectPath": "C:\\Users\\MICHEAL\\source\\repos\\SchoolManagementSystem\\SchoolManageMentSystem.Data\\SchoolManageMentSystem.Data.csproj",
+      "projectUniqueName": "C:\\Users\\MICHEAL\\source\\repos\\SchoolManagementSystem\\SchoolManageMentSystem.Data\\SchoolManagementSystem.Data.csproj",
+      "projectName": "SchoolManagementSystem.Data",
+      "projectPath": "C:\\Users\\MICHEAL\\source\\repos\\SchoolManagementSystem\\SchoolManageMentSystem.Data\\SchoolManagementSystem.Data.csproj",
       "packagesPath": "C:\\Users\\MICHEAL\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\MICHEAL\\source\\repos\\SchoolManagementSystem\\SchoolManageMentSystem.Data\\obj\\",
       "projectStyle": "PackageReference",
@@ -50,7 +50,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -71,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

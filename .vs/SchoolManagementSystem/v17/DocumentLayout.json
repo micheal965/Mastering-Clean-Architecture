@@ -1,48 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\MICHEAL\\source\\repos\\SchoolManagementSystem\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{4B06C0F3-998E-456A-A5D0-363B03950267}|SchoolManagementSystem.Core\\SchoolManagementSystem.Core.csproj|c:\\users\\micheal\\source\\repos\\schoolmanagementsystem\\schoolmanagementsystem.core\\features\\students\\queries\\models\\getstudentlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B06C0F3-998E-456A-A5D0-363B03950267}|SchoolManagementSystem.Core\\SchoolManagementSystem.Core.csproj|solutionrelative:schoolmanagementsystem.core\\features\\students\\queries\\models\\getstudentlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B06C0F3-998E-456A-A5D0-363B03950267}|SchoolManagementSystem.Core\\SchoolManagementSystem.Core.csproj|c:\\users\\micheal\\source\\repos\\schoolmanagementsystem\\schoolmanagementsystem.core\\features\\students\\queries\\handlers\\studenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B06C0F3-998E-456A-A5D0-363B03950267}|SchoolManagementSystem.Core\\SchoolManagementSystem.Core.csproj|solutionrelative:schoolmanagementsystem.core\\features\\students\\queries\\handlers\\studenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB8D324D-3FF0-472E-9E69-FC51A717F132}|SchoolManagementSystem.API\\SchoolManagementSystem.API.csproj|c:\\users\\micheal\\source\\repos\\schoolmanagementsystem\\schoolmanagementsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB8D324D-3FF0-472E-9E69-FC51A717F132}|SchoolManagementSystem.API\\SchoolManagementSystem.API.csproj|solutionrelative:schoolmanagementsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB8D324D-3FF0-472E-9E69-FC51A717F132}|SchoolManagementSystem.API\\SchoolManagementSystem.API.csproj|c:\\users\\micheal\\source\\repos\\schoolmanagementsystem\\schoolmanagementsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AB8D324D-3FF0-472E-9E69-FC51A717F132}|SchoolManagementSystem.API\\SchoolManagementSystem.API.csproj|solutionrelative:schoolmanagementsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB8D324D-3FF0-472E-9E69-FC51A717F132}|SchoolManagementSystem.API\\SchoolManagementSystem.API.csproj|c:\\users\\micheal\\source\\repos\\schoolmanagementsystem\\schoolmanagementsystem.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB8D324D-3FF0-472E-9E69-FC51A717F132}|SchoolManagementSystem.API\\SchoolManagementSystem.API.csproj|solutionrelative:schoolmanagementsystem.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CA4795C-8BD3-43FD-9439-ABAF206D065C}|SchoolManagementSystem.Service\\SchoolManagementSystem.Service.csproj|c:\\users\\micheal\\source\\repos\\schoolmanagementsystem\\schoolmanagementsystem.service\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CA4795C-8BD3-43FD-9439-ABAF206D065C}|SchoolManagementSystem.Service\\SchoolManagementSystem.Service.csproj|solutionrelative:schoolmanagementsystem.service\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBDF0D61-18FD-4BF6-B982-D4CA415976A8}|SchoolManagementSystem.Infrastructure\\SchoolManagementSystem.Infrastructure.csproj|c:\\users\\micheal\\source\\repos\\schoolmanagementsystem\\schoolmanagementsystem.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBDF0D61-18FD-4BF6-B982-D4CA415976A8}|SchoolManagementSystem.Infrastructure\\SchoolManagementSystem.Infrastructure.csproj|solutionrelative:schoolmanagementsystem.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBDF0D61-18FD-4BF6-B982-D4CA415976A8}|SchoolManagementSystem.Infrastructure\\SchoolManagementSystem.Infrastructure.csproj|c:\\users\\micheal\\source\\repos\\schoolmanagementsystem\\schoolmanagementsystem.infrastructure\\abstracts\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBDF0D61-18FD-4BF6-B982-D4CA415976A8}|SchoolManagementSystem.Infrastructure\\SchoolManagementSystem.Infrastructure.csproj|solutionrelative:schoolmanagementsystem.infrastructure\\abstracts\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83B375A3-75E3-479B-A0CE-814AEB3B3E89}|SchoolManageMentSystem.Data\\SchoolManagementSystem.Data.csproj|c:\\users\\micheal\\source\\repos\\schoolmanagementsystem\\schoolmanagementsystem.data\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83B375A3-75E3-479B-A0CE-814AEB3B3E89}|SchoolManageMentSystem.Data\\SchoolManagementSystem.Data.csproj|solutionrelative:schoolmanagementsystem.data\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83B375A3-75E3-479B-A0CE-814AEB3B3E89}|SchoolManageMentSystem.Data\\SchoolManagementSystem.Data.csproj|c:\\users\\micheal\\source\\repos\\schoolmanagementsystem\\schoolmanagementsystem.data\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83B375A3-75E3-479B-A0CE-814AEB3B3E89}|SchoolManageMentSystem.Data\\SchoolManagementSystem.Data.csproj|solutionrelative:schoolmanagementsystem.data\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -50,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -103,127 +62,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\MICHEAL\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem.API\\appsettings.json",
-              "RelativeDocumentMoniker": "SchoolManagementSystem.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\MICHEAL\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem.API\\appsettings.json",
-              "RelativeToolTip": "SchoolManagementSystem.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-26T06:47:18.919Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\MICHEAL\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem.API\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "SchoolManagementSystem.API\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\MICHEAL\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem.API\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "SchoolManagementSystem.API\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T21:47:16.882Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentHandler.cs",
-              "DocumentMoniker": "C:\\Users\\MICHEAL\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem.Core\\Features\\Students\\Queries\\Handlers\\StudentHandler.cs",
-              "RelativeDocumentMoniker": "SchoolManagementSystem.Core\\Features\\Students\\Queries\\Handlers\\StudentHandler.cs",
-              "ToolTip": "C:\\Users\\MICHEAL\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem.Core\\Features\\Students\\Queries\\Handlers\\StudentHandler.cs",
-              "RelativeToolTip": "SchoolManagementSystem.Core\\Features\\Students\\Queries\\Handlers\\StudentHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T21:39:35.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GetStudentListQuery.cs",
-              "DocumentMoniker": "C:\\Users\\MICHEAL\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem.Core\\Features\\Students\\Queries\\Models\\GetStudentListQuery.cs",
-              "RelativeDocumentMoniker": "SchoolManagementSystem.Core\\Features\\Students\\Queries\\Models\\GetStudentListQuery.cs",
-              "ToolTip": "C:\\Users\\MICHEAL\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem.Core\\Features\\Students\\Queries\\Models\\GetStudentListQuery.cs",
-              "RelativeToolTip": "SchoolManagementSystem.Core\\Features\\Students\\Queries\\Models\\GetStudentListQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T20:55:17.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MICHEAL\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem.API\\Program.cs",
-              "RelativeDocumentMoniker": "SchoolManagementSystem.API\\Program.cs",
-              "ToolTip": "C:\\Users\\MICHEAL\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem.API\\Program.cs",
-              "RelativeToolTip": "SchoolManagementSystem.API\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T20:48:09.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\MICHEAL\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem.Service\\Implementations\\StudentService.cs",
-              "RelativeDocumentMoniker": "SchoolManagementSystem.Service\\Implementations\\StudentService.cs",
-              "ToolTip": "C:\\Users\\MICHEAL\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem.Service\\Implementations\\StudentService.cs",
-              "RelativeToolTip": "SchoolManagementSystem.Service\\Implementations\\StudentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T20:33:38.038Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\MICHEAL\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem.Infrastructure\\Repositories\\StudentRepository.cs",
-              "RelativeDocumentMoniker": "SchoolManagementSystem.Infrastructure\\Repositories\\StudentRepository.cs",
-              "ToolTip": "C:\\Users\\MICHEAL\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem.Infrastructure\\Repositories\\StudentRepository.cs",
-              "RelativeToolTip": "SchoolManagementSystem.Infrastructure\\Repositories\\StudentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T20:04:52.226Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IStudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\MICHEAL\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem.Infrastructure\\Abstracts\\IStudentRepository.cs",
-              "RelativeDocumentMoniker": "SchoolManagementSystem.Infrastructure\\Abstracts\\IStudentRepository.cs",
-              "ToolTip": "C:\\Users\\MICHEAL\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem.Infrastructure\\Abstracts\\IStudentRepository.cs",
-              "RelativeToolTip": "SchoolManagementSystem.Infrastructure\\Abstracts\\IStudentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T20:02:02.458Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\MICHEAL\\source\\repos\\SchoolManagementSystem\\SchoolManageMentSystem.Data\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "SchoolManageMentSystem.Data\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\MICHEAL\\source\\repos\\SchoolManagementSystem\\SchoolManageMentSystem.Data\\Models\\Student.cs",
-              "RelativeToolTip": "SchoolManageMentSystem.Data\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T20:54:43.519Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\MICHEAL\\source\\repos\\SchoolManagementSystem\\SchoolManageMentSystem.Data\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "SchoolManageMentSystem.Data\\Models\\Department.cs",
-              "ToolTip": "C:\\Users\\MICHEAL\\source\\repos\\SchoolManagementSystem\\SchoolManageMentSystem.Data\\Models\\Department.cs",
-              "RelativeToolTip": "SchoolManageMentSystem.Data\\Models\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T19:44:48.988Z"
             }
           ]
         }

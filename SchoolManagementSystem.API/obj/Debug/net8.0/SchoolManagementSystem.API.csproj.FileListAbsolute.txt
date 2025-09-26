@@ -30,12 +30,6 @@ C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\
 C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\net8.0\staticwebassets\msbuild.SchoolManagementSystem.API.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\net8.0\staticwebassets\msbuild.SchoolManagementSystem.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\net8.0\staticwebassets\msbuild.build.SchoolManagementSystem.API.props
-C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SchoolManagementSystem.API.props
-C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SchoolManagementSystem.API.props
-C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\net8.0\SchoolMa.43F42360.Up2Date
 C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\net8.0\SchoolManagementSystem.API.dll
@@ -154,3 +148,13 @@ C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\
 C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\net8.0\Mapster.dll
+C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\net8.0\Mapster.Core.dll
+C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\net8.0\Mapster.DependencyInjection.dll
+C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\net8.0\MediatR.dll
+C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\net8.0\staticwebassets.build.json.cache

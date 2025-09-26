@@ -1,0 +1,30 @@
+﻿using MapsterMapper;
+using MediatR;
+using SchoolManagementSystem.Core.APIBases;
+using SchoolManagementSystem.Core.Features.Students.Commands.Models;
+using SchoolManagementSystem.Data.Models;
+using SchoolManagementSystem.Service.Abstracts;
+
+namespace SchoolManagementSystem.Core.Features.Students.Commands.Handlers
+{
+    public class StudentCommandHandler : IRequestHandler<AddStudentCommand, APIResponse<string>>
+    {
+        private readonly IStudentService _studentService;
+        private readonly IMapper _mapper;
+
+        public StudentCommandHandler(IStudentService studentService, IMapper mapper)
+        {
+            _studentService = studentService;
+            _mapper = mapper;
+        }
+        public async Task<APIResponse<string>> Handle(AddStudentCommand request, CancellationToken cancellationToken)
+        {
+            var student = _mapper.Map<Student>(request);
+            var result = await _studentService.AddAsync(student, cancellationToken);
+            if (result.Equals("success"))
+                return APIResponse<string>.Success(result);
+
+            return APIResponse<string>.Failure(result, 400);
+        }
+    }
+}
