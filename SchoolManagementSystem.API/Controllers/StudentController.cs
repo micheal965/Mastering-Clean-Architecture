@@ -22,6 +22,13 @@ namespace SchoolManagementSystem.API.Controllers
             var response = await _mediator.Send(new GetStudentListQuery(), cancellationToken);
             return StatusCode(response.StatusCode, response);
         }
+        [HttpGet("GetStudentPaginatedList")]
+        public async Task<IActionResult> GetStudentsPaginatedList([FromQuery] GetStudentPaginatedListQuery getStudentPaginatedListQuery, CancellationToken cancellationToken)
+        {
+            var response = await _mediator.Send(getStudentPaginatedListQuery);
+            //return StatusCode(response.StatusCode, response);
+            return Ok(response);
+        }
         [HttpGet("GetStudent")]
         public async Task<IActionResult> GetStudentbyId([FromQuery] int id, CancellationToken cancellationToken)
         {
@@ -34,6 +41,18 @@ namespace SchoolManagementSystem.API.Controllers
             var response = await _mediator.Send(addStudentCommand, cancellationToken);
             return StatusCode(response.StatusCode, response);
 
+        }
+        [HttpPut("UpdateStudent")]
+        public async Task<IActionResult> EditStudent([FromBody] EditStudentCommand editStudentCommand, CancellationToken cancellationToken)
+        {
+            var response = await _mediator.Send(editStudentCommand, cancellationToken);
+            return StatusCode(response.StatusCode, response);
+        }
+        [HttpDelete("DeleteStudent")]
+        public async Task<IActionResult> DeleteStudent([FromQuery] int id, CancellationToken cancellationToken)
+        {
+            var response = await _mediator.Send(new DeleteStudentCommand(id), cancellationToken);
+            return StatusCode(response.StatusCode, response);
         }
     }
 }

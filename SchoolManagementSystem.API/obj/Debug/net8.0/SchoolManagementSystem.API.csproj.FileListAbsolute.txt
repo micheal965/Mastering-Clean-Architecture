@@ -158,3 +158,8 @@ C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\
 C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
 C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\net8.0\Ar\SchoolManagementSystem.Core.resources.dll
+C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.API\bin\Debug\net8.0\En\SchoolManagementSystem.Core.resources.dll

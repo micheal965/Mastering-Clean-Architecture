@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "MLiROhaOyJg=",
+  "dgSpecHash": "RYa4IxpE3/A=",
   "success": true,
   "projectFilePath": "C:\\Users\\MICHEAL\\source\\repos\\SchoolManagementSystem\\SchoolManagementSystem.API\\SchoolManagementSystem.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MICHEAL\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\MICHEAL\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\MICHEAL\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
+    "C:\\Users\\MICHEAL\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.0.0\\fluentvalidation.dependencyinjectionextensions.12.0.0.nupkg.sha512",
     "C:\\Users\\MICHEAL\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\MICHEAL\\.nuget\\packages\\mapster\\7.4.2-pre02\\mapster.7.4.2-pre02.nupkg.sha512",
     "C:\\Users\\MICHEAL\\.nuget\\packages\\mapster.core\\1.2.3-pre02\\mapster.core.1.2.3-pre02.nupkg.sha512",
@@ -33,6 +35,7 @@
     "C:\\Users\\MICHEAL\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
     "C:\\Users\\MICHEAL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
     "C:\\Users\\MICHEAL\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.2\\microsoft.extensions.dependencymodel.8.0.2.nupkg.sha512",
+    "C:\\Users\\MICHEAL\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\9.0.9\\microsoft.extensions.localization.abstractions.9.0.9.nupkg.sha512",
     "C:\\Users\\MICHEAL\\.nuget\\packages\\microsoft.extensions.logging\\8.0.1\\microsoft.extensions.logging.8.0.1.nupkg.sha512",
     "C:\\Users\\MICHEAL\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
     "C:\\Users\\MICHEAL\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",

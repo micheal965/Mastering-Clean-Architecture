@@ -18,3 +18,10 @@ C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.Core
 C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.Core\obj\Debug\net8.0\refint\SchoolManagementSystem.Core.dll
 C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.Core\obj\Debug\net8.0\SchoolManagementSystem.Core.pdb
 C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.Core\obj\Debug\net8.0\ref\SchoolManagementSystem.Core.dll
+C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.Core\obj\Debug\net8.0\SchoolManagementSystem.Core.Resources.SharedResources.Ar.resources
+C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.Core\obj\Debug\net8.0\SchoolManagementSystem.Core.Resources.SharedResources.En.resources
+C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.Core\obj\Debug\net8.0\SchoolManagementSystem.Core.csproj.GenerateResource.cache
+C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.Core\bin\Debug\net8.0\Ar\SchoolManagementSystem.Core.resources.dll
+C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.Core\bin\Debug\net8.0\En\SchoolManagementSystem.Core.resources.dll
+C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.Core\obj\Debug\net8.0\Ar\SchoolManagementSystem.Core.resources.dll
+C:\Users\MICHEAL\source\repos\SchoolManagementSystem\SchoolManagementSystem.Core\obj\Debug\net8.0\En\SchoolManagementSystem.Core.resources.dll

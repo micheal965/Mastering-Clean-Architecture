@@ -17,6 +17,22 @@
   },
   {
     "ContainingType": "SchoolManagementSystem.API.Controllers.StudentController",
+    "Method": "DeleteStudent",
+    "RelativePath": "api/Student/DeleteStudent",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolManagementSystem.API.Controllers.StudentController",
     "Method": "GetStudentbyId",
     "RelativePath": "api/Student/GetStudent",
     "HttpMethod": "GET",
@@ -39,6 +55,53 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolManagementSystem.API.Controllers.StudentController",
+    "Method": "GetStudentsPaginatedList",
+    "RelativePath": "api/Student/GetStudentPaginatedList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "OrderBy",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Search",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolManagementSystem.API.Controllers.StudentController",
+    "Method": "EditStudent",
+    "RelativePath": "api/Student/UpdateStudent",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "editStudentCommand",
+        "Type": "SchoolManagementSystem.Core.Features.Students.Commands.Models.EditStudentCommand",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   }
 ]
